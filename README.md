@@ -55,7 +55,7 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://github.com/YourGitHubUsername/Sales-Dashboard/blob/main/Dashboard%20Preview.png)
+![Dashboard Preview]([https://github.com/YourGitHubUsername/Sales-Dashboard/blob/main/Dashboard%20Preview.png](https://github.com/Priyan0ne9/Excel-Dashboard-1/blob/main/Excel%20Dashboard%20pic%201.PNG))
 
 ---
 
