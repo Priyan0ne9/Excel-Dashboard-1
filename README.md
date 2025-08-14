@@ -14,8 +14,7 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 ## ⚙️ Tech Stack
 
 - 📊 **Microsoft Excel** – Dashboard creation, pivot tables, and charts  
-- 🔍 **Pivot Tables & Pivot Charts** – For dynamic aggregation and summarization  
-- 🎯 **Slicers** – Interactive filtering by category, payment method, region, etc.  
+- 🔍 **Pivot Tables & Pivot Charts** – For dynamic aggregation and summarization    
 - 🧮 **Excel Formulas** – `SUMIFS`, `AVERAGEIFS`, calculated fields for KPIs  
 - 🎨 **Conditional Formatting** – Highlighting top/bottom performers and trends  
 
@@ -24,11 +23,6 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 ## 📂 Data Source
 
 **Custom Excel dataset** containing sales transactions.  
-
-| Transaction_ID | Transaction_Date | Revenue | Expenses | Profit  | Category    | Region | Department | Product_Line | Customer_Segment | Payment_Method  | Discount |
-|----------------|------------------|---------|----------|---------|-------------|--------|------------|--------------|------------------|-----------------|----------|
-| TXN0001        | 02-05-2023       | 42532   | 18537    | 23995   | R&D         | Europe | HR         | Software     | SMB              | Cash            | 9%       |
-| TXN0002        | 09-08-2022       | 10349   | 25295    | -14946  | Operations  | Europe | IT         | Furniture    | B2B              | Bank Transfer   | 22%      |
 
 ---
 
@@ -68,11 +62,5 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 ## 📥 How to Use
 1. Download the Excel file from this repository  
 2. Open in **Microsoft Excel** (Desktop version recommended)  
-3. Use slicers to filter and explore insights  
-4. Update the data to see dynamic changes in visuals  
-
----
-
-## 📜 License
-This project is licensed under the MIT License – feel free to use and modify.
+3. Update the data to see dynamic changes in visuals  
 
