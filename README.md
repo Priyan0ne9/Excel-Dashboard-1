@@ -9,7 +9,7 @@ An interactive **Excel dashboard** that visualizes company sales performance, co
 💼 **Sales Performance Analysis – Multi-Dimensional Insights from Transaction Data**  
 A dynamic Excel dashboard that summarizes **transaction-wise business performance** across **departments, categories, and regions**, uncovering key revenue and profit trends.
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -18,13 +18,12 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 - 🧮 **Excel Formulas** – `SUMIFS`, `AVERAGEIFS`, calculated fields for KPIs  
 - 🎨 **Conditional Formatting** – Highlighting top/bottom performers and trends  
 
----
+
 
 ## 📂 Data Source
 
 **Custom Excel dataset** containing sales transactions.  
 
----
 
 ## 📌 Features & Highlights
 
@@ -42,7 +41,7 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 - **Trend Line** – Monthly Revenue & Profit  
 - **Interactive Slicers** – For Category, Region, Payment Method, and Date  
 
----
+
 
 ## 💡 Business Impact
 - 📈 Identify **high-performing products** and profitable categories  
@@ -51,13 +50,13 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 - 🛒 Tailor marketing by **customer segments**  
 - 🎯 Measure the **effectiveness of discounts**  
 
----
+
 
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Preview](https://github.com/Priyan0ne9/Excel-Dashboard-1/blob/main/Excel%20Dashboard%20pic%201.PNG)
 
----
+
 
 ## 📥 How to Use
 1. Download the Excel file from this repository  
