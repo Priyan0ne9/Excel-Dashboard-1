@@ -2,7 +2,7 @@
 
 An interactive **Excel dashboard** that visualizes company sales performance, comparing **revenue, expenses, profit margins, regions, product lines, and payment methods** to help identify trends and support decision-making.
 
----
+
 
 ## 📝 Project Overview
 
