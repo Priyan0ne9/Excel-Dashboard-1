@@ -34,13 +34,11 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 - Study the **impact of discounts** on profitability  
 
 ### 📊 Key Visuals
-- **KPI Cards** – Total Revenue, Total Expenses, Total Profit, Avg. Discount  
-- **Bar Chart** – Profit by Department  
-- **Stacked Column Chart** – Revenue by Product Line & Region  
-- **Pie Chart** – Payment Method Distribution  
-- **Trend Line** – Monthly Revenue & Profit  
-- **Interactive Slicers** – For Category, Region, Payment Method, and Date  
-
+- **Column Chart** – Total Profit by Payment Methods
+- **Bar Chart** – Total Revenue by Product Line
+- **Area Chart** – Number of Transactions by Region 
+- **Pie Charts** – Avg. Expense of Each Category
+- **Line Charts** – Total Revenue/Expense/Profit by Category
 
 
 ## 💡 Business Impact
