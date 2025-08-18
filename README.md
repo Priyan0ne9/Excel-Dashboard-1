@@ -56,7 +56,7 @@ A dynamic Excel dashboard that summarizes **transaction-wise business performanc
 
 
 
-## 📥 How to Use
+##  How to Use
 1. Download the Excel file from this repository  
 2. Open in **Microsoft Excel** 
 3. Update the data to see dynamic changes in visuals  
